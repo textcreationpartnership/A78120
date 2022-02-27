@@ -1,0 +1,606 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A small treatise of baptisme, or, dipping. VVherein is cleerely shewed that the Lord Christ ordained dipping for those only that professe repentance and faith. 1. Proved by scriptures. 2. By arguments. 3. A paralell [sic] betwixt circumcision and dipping. 4. An answere to some objections by P.B. Psal.119.l30. By Edvvard Barber.</title>
+            <author>Barber, Edward, d. 1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78120</idno>
+            <idno type="STC">Wing B694</idno>
+            <idno type="STC">Thomason E143_17</idno>
+            <idno type="STC">ESTC R212733</idno>
+            <idno type="EEBO-CITATION">99871310</idno>
+            <idno type="PROQUEST">99871310</idno>
+            <idno type="VID">156608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156608)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A small treatise of baptisme, or, dipping. VVherein is cleerely shewed that the Lord Christ ordained dipping for those only that professe repentance and faith. 1. Proved by scriptures. 2. By arguments. 3. A paralell [sic] betwixt circumcision and dipping. 4. An answere to some objections by P.B. Psal.119.l30. By Edvvard Barber.</title>
+                  <author>Barber, Edward, d. 1674?</author>
+               </titleStmt>
+               <extent>[8], 30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156608:1" rendition="simple:additions"/>
+            <p>A Small Treatiſe of BAPTISME, OR, DIPPING.</p>
+            <p>
+               <hi>VVHEREIN</hi> Is Cleerely ſhewed that the Lord CHRIST Ordained Dipping for thoſe only that profeſſe Repentance and <hi>FAITH.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Proved by Scriptures.</hi>
+               </item>
+               <item>2. <hi>By Arguments.</hi>
+               </item>
+               <item>3. <hi>A Paralell betwixt Circumciſion and Dipping.</hi>
+               </item>
+               <item>4. <hi>An Anſwere to ſome Objections by</hi> P. B. Pſal. 119. 130.</item>
+            </list>
+            <p>By <hi>EDVVARD BARBER.</hi>
+            </p>
+            <p>Printed in the Yeere. 1641.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:156608:2"/>
+            <pb facs="tcp:156608:2"/>
+            <head>The Preface.</head>
+            <argument>
+               <p>
+                  <hi>To all that love the Lord Jeſus Chriſt in ſincerity, and his Ap<g ref="char:EOLhyphen"/>pearing.</hi> Ephe. 6. 24. 1 Gal. 8. 9. Matth. 24. 30. 1 Revel, 7. 1 Cor. 9. 18. &amp; 2. 11. 4.</p>
+            </argument>
+            <p>
+               <hi>BEloved Reader,</hi> it may ſeeme ſtrange, that in theſe times, when ſuch abundance of Knowledge of the Goſpell is profeſſed in the World, there ſhould notwithſtanding be generally ſuch ignorance, eſpecially in and amongſt thoſe that profeſſe themſelves Miniſters thereof, of that glorious principle, True Baptiſme or Dipping, <hi>Ephe.</hi> 4. 5. Inſtituted by the Lord Jeſus Chriſt, which a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that look for life and Salvation by him ought to be partakers of, it being that onely which was received by the Apoſtles and Primitive Churches, and for a long time unviolably kept and practiſed by the miniſterie of the Go<g ref="char:EOLhyphen"/>ſpel in the planting of the firſt Churches, &amp; that the Lord ſhould amongſt ſome others, raiſe up mee, a poore Tradeſman, to de<g ref="char:EOLhyphen"/>vlge this glorious Truth, to the worlds cenſuring, but firſt, inaſ<g ref="char:EOLhyphen"/>much as the Lord, notwithſtanding, my own unworthineſſe, hath in his Son accepted, and counted worthy to ſuffer for his Name; It being alſo by the Providence of God, ſo much in queſtion at this time, we are therefore imboldened thereunto.</p>
+            <p n="2">2. The Lords uſuall dealing, it being to bring mighty things to paſſe by weake meanes, as in Joſh. 6. 3. 4<g ref="char:punc">▪</g> 5, 20. &amp; 1. 1. where the walls of Jerecho fell downe by the blaſts of Rams hornes: 1 Sam. 16. 11. Amos 7. 14. And Judg. 7. The Lord gave that great deliverance to <hi>Gideon,</hi> and 300. which he would not doe to him with 32000. verſe 2. 7. And 1 Cor. 1. 27. 28. Chuſing the fooliſh things of the world, to confound the wiſe, and weake things to confound the mighty, Jer 49. 20. &amp; 50. 44. And baſe things, and things deſpiſed hath God choſen, yea, and things which are not, to bring to naught things that are. Zach. 4. 10. there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore looking only at the glory of God, and love to the Truth, for which be<g ref="char:EOLhyphen"/>ing impriſoned 11. Moneths, by meanes whereof, I being taken off my Calling, had the more opportunitie to ſearch the Scrip<g ref="char:EOLhyphen"/>tures daily, to ſee whether thoſe things were ſo, not as they de<g ref="char:EOLhyphen"/>livered
+<pb facs="tcp:156608:3"/> by <hi>Paul,</hi> but practiſed by the Prieſtes and Prelates ſo our times, for <hi>Paul</hi> delivered no ſuch things, as by them is pra<g ref="char:EOLhyphen"/>ctiſed in many particulars, as is cleerly ſhowne in the following diſcourſe.</p>
+            <p n="3">3. The reports of ſome, who notwithſtanding, they never ſaw our faces, and ſo by diſcourſe, trie the Spirits, as <hi>John</hi> adviſeth, 1 Joh. 4. 1. yet behind our backs, have reproached us, and ſo as Saint <hi>Jude</hi> ſaith, Speake evill of things they know not, and as Jere. ſaith, ſpeak a viſion of their heart, and not from the mouth of the Lord, Jer. 23. 16. 30, 31. 32. I am againſt the Propheſies, ſaith the Lord, that ſteale my words every one from his neigh<g ref="char:EOLhyphen"/>bour, I am againſt the Prophets, ſaith, the Lord, that uſe their tongues, and ſay he ſaith, Behold I am againſt them that pro<g ref="char:EOLhyphen"/>pheſie falſe dreames, ſaith the Lord, and doe tell them, and cauſe my people to erre by their lies, and by their lightneſſe, yet I ſent them not, nor commanded them, therefore they ſhall not pro<g ref="char:EOLhyphen"/>fit this people at all, ſaith the Lord.</p>
+            <p n="4">4. Others affirming, there was no plaine text of the Dipping of any VVoman, by the which they diſcover much ignorance of, or malice againſt the Truth, ſtriving to uphold the Traditions of men, in ſtead of the glorions Inſtitutions of Jeſus <hi>Christ</hi> for the word ſaith, Acts 8. 12. that when they beleeved <hi>Philip</hi> preach<g ref="char:EOLhyphen"/>ing the things concerning the things concerning the Kingdome of God, and the Name of Jeſus Chriſt, they were dipt, both men and Women: and Acts 16. 14. 15. <hi>Lidia</hi> a ſeller of purple, with her houſhold, being judged faithfull, was Dipped. And Gal. 3. 28. Male and female one in Chriſt.</p>
+            <p n="5">5. Conſidering the great burden this State and Kingdome lately lay under, chiefly by thoſe that pretended to be the heads of the Church, as hath been manifeſtly proved by divers that were none of their Clergy, to their eternal fame in that moſt ho<g ref="char:EOLhyphen"/>norable high Court of Parliament.</p>
+            <p n="6">6. Others that pretend to come neerer in witneſſing againſt the Prelates, yet durſt not <hi>Moſes-like</hi> ſtand to it, Exod. 23. 32. who deſired his owne ruine, rather then the deſtruction of the people. But theſe ſeeing the Wolfe comming, hid themſelves, or fled beyond the Seas, not ſtanding up in the gap to make up the hedge for the houſe of Iſrael, ſo as they might juſtly be com<g ref="char:EOLhyphen"/>pared to the Foxes of the Deſarts, Ezek. 13. 4, 5. ſo that if the Lord ſhould have ſought for one to make up the hedge, and
+<pb facs="tcp:156608:3"/> ſtand in the gap for the Land that it ſhould not be diſtroyed, they were gone beyond the Seas, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id themſelves when. If ever the Kingdome ſtood in need; but herein they diſcovered themſelves to be hirelings, and not true Shepheards, John 10. 12, 13. or as much as in them is, giving Chriſt the lye, who ſaith his Deſciples ſhall be brought before Kings and Governours for his ſake, whereas the fearefull and unbeleeving are ſet in the forefront of wicked ones, Revel. 21. 8. But the true Shepheard layeth downe his life for his Flocke, and <hi>Nehimia,</hi> the 6. 11. being in danger, and perſwaded by <hi>Sanballet</hi> to goe into the Temdl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſaith, ſhould ſuch a manas I flye; and who is he that being as <hi>I</hi> am, would goe into the Temple to ſave his life, I will not goe in; then he perceived that God had not ſent him, and Acts 4. 18, 19. 20. The Apoſtles being command ſilence by Au<g ref="char:EOLhyphen"/>thority, durſt not obey, but anſwereth, whether it bee right in the fight of God, to hearken to you more then unto God, judge yee, for wee cannot but ſpeake the things wee have ſeene and heard. And Matthew. 16. 25, 26. Chriſt ſaith whoſoever will ſave his life, ſhall loſe it; and hee that ſhall loſe his life for my ſake, ſhall find it. This we ſee fulfilled in theſe daies, for ſome forſaking the cauſe of Chriſt, have loſt eſtates and lives, whereas others who have ſtood boldly to it, have ſaved both. And if Meroz with the Inhabitants thereof, was curſed with a bitter Curſe, Judges 5. 23. Becauſe they came not forth to the helpe of the Lord; And <hi>Paul</hi> thought not good to take <hi>Marke</hi> with him, becauſe he went not with them to the worke, what may wee think of thoſe that run from it. And if by the Law a Souldeir that leaves his Colours, is to dye the death. What may bee thought of thoſe that leaves their Countries, leaving the cauſe of Chriſt, thinking thereby to ſhun the croſſe: When if ever the Kingdome ſtood in need of helpe. But at this time, which is to bee noted, the Lord rai<g ref="char:EOLhyphen"/>ſed up divers Gentlemen, Laymen, as they call them, to ſtand moſt boldly to the truth in reſpect of Church and Common-Wealth. And as <hi>John</hi> ſaith, Revella. 12. 11. loved not their lives unto the death. And <hi>Paul-</hi>like, Acts 21. 13. was not only ready to bee bound, but to ſuffer for the Name of Chriſt.</p>
+            <pb facs="tcp:156608:4"/>
+            <p> Againe, others who pretend to come neereſt in that way in ſeparating, yet hold the baptiſme they there received, though on no ground; for i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were truely baptiſed into that Church <hi>I</hi> conceive with ſubmiſſion to better judgements, they ought to continue, and to ſeparate for corruptions, as is clearly proved by B. <hi>Hall,</hi> in his Apology againſt the Browniſts, ſhewing that either they muſt goe forward to baptiſme, or come backe againe to the Biſhops and Church.</p>
+            <p n="7">7. Conſidering the great wrong done in putting out ſome Scripture, as in the 14. Acts 23. where Election is left out, by which meanes people are kept from knowing, muchleſſe injoy<g ref="char:EOLhyphen"/>ing their priviledge put chaſed by the blood of Chriſt: the cau<g ref="char:EOLhyphen"/>ſers thereof for ſo doing lying under the reproofe, which the Lord ſpeakes of in the 13. Chapter of Ezekiel. Secondly, ſome words left untranſlated, as in the 28. of Mat. 19. where the word may as well be Dipping, as in Luke the 16. 29. And this is ac<g ref="char:EOLhyphen"/>knowledged by the Clergy in the booke of Common Prayer, where the Miniſter is commanded to dip the child.</p>
+            <p n="8">8. There being now a yeare of Jubi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſuch an Aſſembly as that moſt Honourable high Court of Parliament, whoſe eares God hath opened to heare what ever by any ſhall be ſpoken for Gods glory, and the good of this State, <hi>Gamaliel-like,</hi> Acts 5. 34. 35. weighing, and conſidering things, leaſt otherwiſe they ſhould be found fighters againſt God, therefore with <hi>Eſter,</hi> 4. 16. deſire to venture, if <hi>I</hi> periſh, <hi>I</hi> periſh: conceiving if ſome ſhould not now ſpeake, the ſtones of the ſtreet might cry; wee having lately taken the Oath of Proteſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, againſt Popery, and Popiſh innovation, injoyned upon all the Kingdome inge<g ref="char:EOLhyphen"/>nerall. And ſprinkling of children being an invention of men, brought in neere three hundered yeares after Chriſt; therefore in obedience to God, and love to our native Country, we de<g ref="char:EOLhyphen"/>ſire to publiſh what truth the Lord betruſts us withall, hoping that God will effect his pleaſure by this weake meanes, or make it a motive to ſtir up ſome of more ability, who will, as in <hi>Ne<g ref="char:EOLhyphen"/>hemia</hi>'s time, ſearch the Regeſter, and thoſe that found not their Genealogy, were as polluted, put from the Prieſthood, and as Chriſt commands, ſearch the Scriptures, John 5. 39. and ſo re<g ref="char:EOLhyphen"/>turne to his inſtitutions.</p>
+            <p n="9">9. The great cauſe we have to admire the goodneſſe and love of God to this Nation, in King <hi>Edward</hi> the ſixts daies, for the
+<pb facs="tcp:156608:4"/> great light that then broke forth; and they imploying that ta<g ref="char:EOLhyphen"/>lent, they received for Gods glory, yet now the light ſpringing forth forth in ſuch abundance, according to the VVord of the Lord, Iſai. 11. 9. we having received more talents, or a greater meaſure of knowledge, it cannot be but the Lord requires an anſwerable obedience, according to that a man hath, and not according to that he hath not, 2 Cor. 8. 12. for he that had one talent was not blamed, becauſe he did not imploy two, but be<g ref="char:EOLhyphen"/>cauſe he imployed not that hee had: ſo likewiſe, had hee that received five beene guilty of the ſame reproofe, had he imployed but one, Matth. 25. 15. to the 30. looking at the Cameli<g ref="char:EOLhyphen"/>on-like diſpotion of the Miniſters of late times, in King <hi>Henry</hi> the Eights dayes Papiſts, in King <hi>Edward</hi> the Six dayes Proteſtants, in <hi>Queen Maries</hi> daies Papiſts, in Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Proteſtants, when the Biſhops were in power and authori<g ref="char:EOLhyphen"/>tie, ſubmit, flie their Countries, or hide their heads, now that by the Providence of God, they are in diſgrace &amp; in part down, oppoſe them with all their might, whereas the true Miniſters of Chriſt were ever the ſame, not variable or changing, Eph. 4. 11. 12. 13. 14. which times and eſtate Government, looking only to God for direction from that great Prophet, the Lord Jeſus Chriſt. Deut. 18. 15. Acts 3. 21. 22. 23. Heb. 1. 1 2 3. Revel. 5. 5.</p>
+            <p>Laſtly, It's not unknowne, that the faithfull ſervants of God, who have indeavored moſt faithfulneſſe, have often gone under reproaches and ſlanders, as <hi>Eliah</hi> was counted the troubler of <hi>Iſrael,</hi> 1 King, 18. 17. and Acts 17. 6. <hi>Paul</hi> and <hi>Silas</hi> was ſaid to turne the world upſide downe. And Acts 24. 5. <hi>Paul</hi> was coun<g ref="char:EOLhyphen"/>ted a peſtilent fellow, a mover of Sedition amongſt the Jewes, and a Ring-leader of the Nazarites, inſomuch that they were commanded not to preach in the Name of Chriſt, Acts 4. 18. but verſe the 19, 20, they anſwered, Whether it be right in the ſight of God, to ſpeake to you more then unto God, judge yee, For we cannot but ſpeake the things which wee have ſeene and heard, from whence wee may obſerve the miniſters of Chriſt could never have their mouthes ſtopt by men, no not the maje<g ref="char:EOLhyphen"/>ſtrate, much leſſe the Prelates.</p>
+            <p>In like manner lately, thoſe that profeſſe and practiſe the dip<g ref="char:EOLhyphen"/>ping of Jeſus Chriſt, inſtituted in the Goſpel, are called and re<g ref="char:EOLhyphen"/>proached with the name of Anabaptiſts, although our practice be no other then what was inſtituted by Chriſt himſelf, withall deſiring, if there be any that from the VVord of God, can ſhew
+<pb facs="tcp:156608:5"/> that we walke in a falſe way, or error in denying the dipping of infants, that they would doe it, for wee profeſſe our ſelves ſuch as deſire the glory of God, and eternall life after death, being confident that our deſire or endeavors cannot bring us thither, but only Chriſt, Heb. 10. 14. Coll. 1. 14. in whom wee have Re<g ref="char:EOLhyphen"/>demption through his blood, and verſe 19. &amp; 23. withall walk<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that only way which leadeth thereunto, by him preſcri<g ref="char:EOLhyphen"/>bed in his VVord, Joh. 14. 6. &amp; 10. 1. Acts 5. 32. Heb. 5. 9. And being made perfect, he became the Author of of eternall ſalva<g ref="char:EOLhyphen"/>tion to all that obey him, and Theſal. 2. 1. 7. 8. when the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt ſhalbe revealed from heaven, with his mighty Angels, in flam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng fire, rendring vengeance on them that know not God, and that obey not the Goſpell of our Lord Jeſus Chriſt, deſi<g ref="char:EOLhyphen"/>ring therefore that theſe Scriptures may be well weighed, &amp; con<g ref="char:EOLhyphen"/>ſidered of all thoſe that feare God, to the end we may be refor<g ref="char:EOLhyphen"/>med, if we erre in our judgements by miſ-underſtanding the Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptures, and ſo be brought to acknowledge the Truth, which wee ſhall willingly imbrace, if not, though wee walke in the way called hereſie, as <hi>Paul</hi> did. Acts 24. 14. yet ſo worſhip wee the God of our Fathers, and at the great day, Every man muſt give account for himſelf. Rom. 14. 10. and Matth. 15. 15. Chriſt ſaith, Every plant which my heavenly Father hath not planted, ſhall be rooted up, meane time all is to grow together, though not in the Church, yet in the world, which is the field, expoun<g ref="char:EOLhyphen"/>ded by <hi>Chriſt</hi> himſelf. Matth. 13. 38.</p>
+            <p>Againe, knowing that God is the ſame, Mala. 3. 6. Secondly Chriſt is the ſame, Heb. 13. 8. having given lawes, to which none are to add or diminiſh. Thirdly his Miniſterie the ſame, 1 Cor. 12. 67. 28. Ephe. 4. 11, 12, 13. Therefore as wee deſire to give to <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> ſo to God the things that are his, Mat. 22. 21. Hee being the Father of Spirits, and ſo the only Author of ſpiritual worſhip, Jo. 4. 24. He. 12 9. Fourthly the Promiſes to Beleevers the ſame Jer. 31. 3. Mat. 28. 20. Rom. 8. 29. 30. 1 Pet. 1. 2. Therefore the Adminiſtration the ſame, ſo long as there remaines any of the members of Chriſt to be gathered on the earth, Rev. 22 18. And if the Q. of <hi>Sheba</hi> hea<g ref="char:EOLhyphen"/>ring of the fame of <hi>Solomon,</hi> which when ſhee ſaw, there was no more ſpirit left in her, 1 King. 10. 1, 2, 3, 4, 5. how much more are we to admire and reſt ſatisfied to ſee the fulneſſe of Chriſt, and the order left in the Goſpel. Mat. 12. 42. Luke 11. 31. Col. 1. 19.</p>
+            <p>
+               <hi>By</hi> Edward Barber, <hi>Citizen, and Merchant-Taylor of Lon<g ref="char:EOLhyphen"/>don; late Priſoner, for denying the ſprinkling of Infants, and re<g ref="char:EOLhyphen"/>quiring tithes now under the Goſpel to be Gods Ordinance.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156608:5"/>
+            <head>A ſmall Treatiſe of DIPPING;</head>
+            <head type="sub">Wherein is clearly ſhewed, that the Lord <hi>Chriſt</hi> ordai<g ref="char:EOLhyphen"/>ned Dipping for thoſe onely that profeſt <hi>Faith</hi> and <hi>Repentance;</hi>
+            </head>
+            <list>
+               <item>I. Proved by Scriptures, from the Commiſſion of Chriſt, and practice of the Apoſtles, and Primi<g ref="char:EOLhyphen"/>tive Churches.</item>
+               <item>II. By arguments, with Anſwers to ſome obiectons, <hi>Pſal.</hi> 119. 130. The entrance of thy word giveth light, It giveth underſtanding unto the ſimple.</item>
+               <item>III. Alſo a parralell betwixt Circumciſion and Dipping, <hi>Matth.</hi> 15. 8, 9.</item>
+               <item>IV. An Anſwere to ſome Obiections by D. B.</item>
+            </list>
+            <p>
+               <hi>This people draweth nigh me with their mouth, and honoreth me with their lips, but their heart is farre from me; But in vaine they doe worſhip me, teaching for Doctrines the Commandements of men.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord Jeſus Chriſt in that great Charter of the Holy Goſpel, Matth. 28. 18. 19. 20. having received all power in Heaven and Earth, ſaith, <hi>Goe, and make Diſciples, all Nations, dipping them in the Name of the Father, and of the Sonne, and of the Holy Spirit, teaching them to obſerve all things whatſoever I have commanded you. And lo I am with you alway even to the end of the world.</hi>
+            </p>
+            <p>And Marke 16. 15. he ſaith; <hi>Goe yee into all the world, and</hi>
+               <pb n="2" facs="tcp:156608:6"/> 
+               <hi>preach the Goſpel to every creature, he that ſhall beleeve and bee dipped, ſhall be ſaved: but he that will not beleeve ſhall bee dam<g ref="char:EOLhyphen"/>ned.</hi>
+            </p>
+            <p>Likewiſe Luke the 24. 47. he ſaith: <hi>And thus it behoveth Chriſt to ſuffer, and to riſe againe the third day, and that repen<g ref="char:EOLhyphen"/>tance and remiſſion of ſinnes ſhould be preached in his Name, a<g ref="char:EOLhyphen"/>mong all Nations, beginning at Ieruſalem, now yee are witneſſes of theſe things.</hi>
+            </p>
+            <p>Thus it is cleare, that the Lord Chriſt commanded his Apo<g ref="char:EOLhyphen"/>ſtles, and ſervants of the Goſpel, firſt of all to teach, and thereby to gather Diſciples: And afterward to dip thoſe that were taught and inſtructed in the myſteries of the Goſpell, upon the manifeſtation of their faith: which practice ought to continue to the end of the world, Matth. 28. 20. Eph. 4. 5. Heb. 13. 8.</p>
+            <p>Secondly, that the Apoſtles, according to this Commiſsion of Chriſt did alwayes practiſe, Acts 2 36, 37, 38. <hi>Peter</hi> lift up his voice, and ſaid to the <hi>Iewes,</hi> Let all the houſe of Iſrael know for a certainty, that God hath made this Jeſus, whom you have Cruci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, both Lord, and Chriſt; now when they heard this, they were pricked in their hearts, and ſaid unto <hi>Peter,</hi> and the reſt of the Apoſtles, men and brethren, what ſhall we doe; Then <hi>Peter</hi> ſaid vnto them, Repent and be dipt, every one of you, in the Name of Jeſus Chriſt, for the remiſſion of ſinnes, and yee ſhall receive the gift of the holy Spirit, for the pro<g ref="char:EOLhyphen"/>miſe is to you, and to your Children, and to all that are afarre off, even ſo many as the Lord our God ſhall call; And with many other words, did he teſtifie and exhort them, ſaying, ſave your ſelves from this untoward generation, Then they that gladly received his Word, were dipt; And the ſame day were added unto them about three thouſand ſoules, and they con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inued in the Apoſtles Doctrine, and fellowſhip, and in breaking of bread, and Prayers.</p>
+            <p>Againe, <hi>Acts</hi> 8. 5. 6. 12. 37. 38. Then <hi>Philip</hi> went down to the Citie of <hi>Samaria,</hi> and preached Chriſt there; and the peo<g ref="char:EOLhyphen"/>ple with one accord gave heed unto thoſe things which <hi>Phil<g ref="char:EOLhyphen"/>lip</hi> ſpoke, hearing and ſeeing the miracles that he did.</p>
+            <p>And when they beleeved, <hi>Phillip</hi> preaching the the things concern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the kingdome of God, and the Name of Jeſus
+<pb n="3" facs="tcp:156608:6"/> Chriſt, they were dipt both men and women; againe <hi>Phillip</hi> ſaid to the <hi>Eunuch,</hi> If thou beleeveſt with all thine heart, thou mayeſt; And he anſwered, and ſaid, I beleeve that Jeſus Chriſt is the Son of God, and hee commanded the Charriot to ſtand ſtill, and they went downe both into the water, both <hi>Phillip</hi> and the Eunuch, and he dipt him.</p>
+            <p>Againe it is evident, <hi>Acts</hi> 10. 44. to the 48. that thoſe only, that received the holy Spirit by Preaching the Word, were dipt, in theſe words, while <hi>Peter</hi> yet ſpake theſe words the holy Spirit fell on all them that heard the Word, and they of the Circumciſion, which beleeved, were aſtoniſhed as many as came with <hi>Peter,</hi> becauſe that on the Gentiles alſo was po<g ref="char:EOLhyphen"/>wered out the gift of the holy Spirit, for they heard them ſpeake with tongues, and magnified God, Then anſwered <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> can any man forbid water, that theſe ſhould not be dipt, which have received the holy Spirit as well as mee, And hee commanded them to be dipt in the Name of the Lord.</p>
+            <p>Againe, <hi>Acts</hi> 16. 14. A certaine woman named <hi>Lidia,</hi> a ſel<g ref="char:EOLhyphen"/>ler of Purple, of the Citie of <hi>Thyatira,</hi> which worſhiped God, heard us, whoſe heart the Lord opened, that ſhee attended to the things that were ſpoken by <hi>Paul,</hi> And when ſhe was dipt, and her houſhould, ſhee beſought us ſaying, If you have judg<g ref="char:EOLhyphen"/>ed me to be faithfull to the Lord, come into my houſe, and a<g ref="char:EOLhyphen"/>bide there, and ſhe conſtrained us; and verſe 30. 31. 32. The Jaylor ſaid, Sirs, what muſt I doe to be ſaved and they ſaid, be<g ref="char:EOLhyphen"/>leeve in the Lord Jeſus Chriſt, and thou ſhalt bee ſaved, and thine houſhold; and they ſpake unto him the word of the Lord, and to all that were in his houſe, And he tooke them the ſame houre of the night, and waſhed their ſtripes, and was dipt, hee and all his ſtraightway, and when he had brought them into his houſe, he ſet meat before them, and rejoyced, beleeving in God, with all his houſhold; and <hi>Acts</hi> 18. 8. the chiefe Ruler of the Synagogue, <hi>Criſpus</hi> beleeved on the Lord, with all his houſe, and many of the <hi>Corinthians</hi> hearing, beleeved and were dipt.</p>
+            <p>Thus it is cleere, that the Inſtitutions of Chriſt, as alſo the practiſe of the Apoſtles, concerning <hi>Dipping,</hi> was only to ad<g ref="char:EOLhyphen"/>miniſter it upon ſuch, and ſuch onely as did manifeſt faith and
+<pb n="4" facs="tcp:156608:7"/> Repentance, deſiring it, and this is cleere in the Apoſtles words, <hi>Heb.</hi> 6. 1. 2. where the right order of the principles is laid downe; ſaying, leaving the Principles of the doctrine of Chriſt, let us goe on to perfection, not laying againe the foun<g ref="char:EOLhyphen"/>dation of Repentance from dead works, and of Faith towards God, of the Doctrine of <hi>Dippings,</hi> and of laying on of hands, and of reſurrection of the dead, and of eternall Judgments, <hi>&amp;c.</hi> 
+               <note place="margin">
+                  <hi>verſ.</hi> 4. 5, 6.</note> Thus you ſee it proved by Scripture; Now it followes to be proved by arguments grounded on Scripture, that the Lord Jeſus Chriſt, who is Lord of all adminiſtrations, being the Prieſt, Prophet and King of his Church, in that great Commiſ<g ref="char:EOLhyphen"/>ſion of his, <hi>Matth.</hi> 28. 19. hath not appointed one <hi>Dipping</hi> for Iewes, another for Gentiles one for men, another for wo<g ref="char:EOLhyphen"/>men; one for old, another for young; one for the primitive times, another for preſent and future; one upon manifeſtation of repentance and faith profeſſed, another upon doing it by God-fathers and God-mothers, much leſſe having right there<g ref="char:EOLhyphen"/>unto by the faith of their parents, for Habak. 2. 4. <hi>The iuſt ſhall</hi> 
+               <note place="margin">
+                  <hi>Ioh.</hi> 3. 36. <hi>Rom.</hi> 1. 17. 1 <hi>Ioh.</hi> 5. 10. <hi>Heb.</hi> 10. 33.</note> 
+               <hi>live by his faith:</hi> therefore not the faith of others; For as there is one Body, one Spirit, and beleevers called in one hope of calling, one Lord, one Faith: ſo alſo one dipping, which was to be adminiſtred onely on thoſe that were made Diſciples by teaching, and not on thoſe who had it profeſſed by others, which Chriſt commanded not, Matth. 28. 19. Therefore In<g ref="char:EOLhyphen"/>fants by expreſſe prohibition are excluded, as is cleare in the <note place="margin">1 <hi>Sam.</hi> 15. 19. 22 23.</note> following diſcourſe: wherefore from that which hath beene ſpoken, we argue thus:</p>
+            <p n="1">1. They onely are to be dipped that are made Diſciples by teaching, Matth. 28. 19.</p>
+            <p>Infants cannot be made Diſciples by teaching, thefore In<g ref="char:EOLhyphen"/>fants are not to be dipt.</p>
+            <p n="2">2. Againe, Every precept affirmative, containeth under it a negative. To make Diſciples and dip them, is the affirmative contained under it, dip not thoſe that are not made Diſciple, by teaching.</p>
+            <p n="3">3. Againe, if the command of Chriſt our Saviour for making diſciples by teaching before they are dipt, be Evangelicall and perpetuall, as all the Precepts of the Goſpel are, then it ought
+<pb n="5" facs="tcp:156608:7"/> to bee performed and obſerved in the Church of Chriſt for ever.</p>
+            <p>The Major Poſition is true, Iſai. 9. 7. of the increaſe of his government and peace there ſhall bee no end upon the Throne of <hi>David,</hi> and upon his Kingdome, to order and eſta<g ref="char:EOLhyphen"/>bliſh it with judgement and with juſtice from henceforth even for ever. The zeale of the Lord of Hoſts will performe this. And Mat. 28. 18. 19. 20. All power is given to me in heaven and in earth; Goe ye therefore and teach all Nations, dipping them in the Name of the Father, and of the Sonne, and of the holy Spirit, teaching them to obſerve all things whatſoever I have commanded you. And lo, I am with you alway, even to the end of the world.</p>
+            <p>Therfore perſons upon the manifeſtation of Repentance and faith, onely are to be dipped.</p>
+            <p n="4">4. None but thoſe that doe expreſſe that inward Baptiſme. Matth. 3. 11. Acts 10. 47. 48. are to be dipped.</p>
+            <p>Infants cannot expreſſe that inward Baptiſme, therefore in<g ref="char:EOLhyphen"/>fants ought not to be dipped.</p>
+            <p n="5">5. Whatſoever was written afore time was written for our learning, Rom. 15. 4. For whatſoever things were written a<g ref="char:EOLhyphen"/>foretime, were written for our learning, that wee through pa<g ref="char:EOLhyphen"/>tience and comfort of the Scriptures might have hope.</p>
+            <p>Infants dipping was never written aforetime: Therefore in<g ref="char:EOLhyphen"/>fants dipping is not for our learning.</p>
+            <p n="6">6. We are commanded to ſtand in the way, and aske for the old pathes, which is the good way, and walke therein, and wee ſhall finde reſt unto our ſoules, Jer. 6. 16.</p>
+            <p>The old and good way under the Goſpell, is the Inſtituti<g ref="char:EOLhyphen"/>ons of Jeſus Chriſt. This is that <hi>Moſes</hi> that ſaid unto the <note place="margin">
+                  <hi>Deut.</hi> 18. 15. <hi>Asts</hi> 3. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 23. &amp; 7. 37.</note> Children of Iſrael, A Prophet ſhall the Lord your God raiſe up unto you, of your brethren, like unto mee, him ſhall yee heare: And it ſhall come to paſſe, that every ſoule which will not heare that Prophet, ſhall bee deſtroyed from among the people.</p>
+            <p>But the dipping beleevers is that good old way of Chriſt, and infants is not: Ergo.</p>
+            <p>Againe, the Lord complained, Judg. 5. 6. his people walked
+<pb n="6" facs="tcp:156608:8"/> in by-paths, that are of their owne invention, and not of his appo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntment. From whence we reaſon thus:</p>
+            <p>They which walke in a way, or ſet up an invention which God hath not commanded, walke in a by-path.</p>
+            <p>But the dipping of infants God hath not commanded:</p>
+            <p>Therefore the dipping of infants is a by-path.</p>
+            <p>Againe, if there be conditions required of all thoſe that are dipped, and none are to be dipped before the performance of theſe conditions; then are not infants to be dipped.</p>
+            <p>The firſt is true, Acts 2. 38. Then <hi>Peter</hi> ſaid unto them, Repent and be dipped every one of you in the Name of Je<g ref="char:EOLhyphen"/>ſus Chriſt, for the remiſsion of ſinnes, and yee ſhall receive the gift of the holy Spirit. And verſe the 44. And all that be<g ref="char:EOLhyphen"/>leeved were together, and had all things common. And Acts 8. 37. <hi>Philip</hi> ſaid to the Eunuch, If thou beleeveſt with all thine heart, thou mayeſt. And Luke 3. 7. 8. <hi>Iohn</hi> faith to the multi<g ref="char:EOLhyphen"/>tude that came forth to bee dipped of him: O generation of Vipers! Who hath fore-warned you to flye from the wrath to come; bring forth therefore fruit meet for repentance: and begin not to ſay within your ſelves, We have <hi>Abraham</hi> to our Father: For I ſay, that God is able of theſe ſtones to raiſe up children to <hi>Abraham.</hi>
+            </p>
+            <p>Thus that repentance and faith is required before dipping, is cleare not onely by Scripture, but alſo acknowledged in the Catechiſme of the Primer ſet forth by authority; where it is <note place="margin">As Godfa<g ref="char:EOLhyphen"/>thers and Godmothers</note> manifeſted, though by others; contrary to theſe Scriptures, Hab. 2. 4. Rom. 1. 17. Heb. 10. 38.</p>
+            <p>The ſecond cannot be denied, ſeeing infants have not the uſe of theſe faculties for the performance of repentance and faith: therefore infants are not to be dipped.</p>
+            <p>This is proved thus: They onely are to be dipped in whom repentance and faith is manifeſted by hearing the Word prea<g ref="char:EOLhyphen"/>ched.</p>
+            <p>But in perſons of yeares onely is repentance and faith wrought by hearing the Word preached (the reaſon is) per<g ref="char:EOLhyphen"/>ſons of yeers have eares to heare, and faith commeth by hea<g ref="char:EOLhyphen"/>ring, and hearing by the Word of God, Rom. 10. 17. and Acts 11. 14. who ſhall tell thee words wherby thou and all thy houſe
+<pb n="7" facs="tcp:156608:8"/> ſhall be ſaved. And James 2. 17. faith without workes is dead yea no faith at all.</p>
+            <p>Therefore perſons of yeares are onely to be dipped.</p>
+            <p>Againe thus: If the new Teſtament be as plaine and perſpi<g ref="char:EOLhyphen"/>cuous as the old; and Chriſt the Mediator of the new Teſta<g ref="char:EOLhyphen"/>ment, as faithfull as <hi>Moſes</hi> the Mediator of the old Teſta<g ref="char:EOLhyphen"/>ment. Then the perſons to bee dipped, and the conditions of dipping, and the time when, are as clea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and faithfully deſcri<g ref="char:EOLhyphen"/>bed in the inſtitutions of dipping, as the perſons condition and time of circumciſion.</p>
+            <p>But for infants dipping there is no expreſse deſcription of of the perſons, condition, time; whereas true dipping, which is that one dipping, Epheſ. 4. 5. which is the dipping of repen<g ref="char:EOLhyphen"/>tance for remiſsion of ſinnes, Mark. 1. 4. it is moſt evidently and faithfully ſet downe for perſons, condition and time, viz. Perſons confeſſing their ſinnes, Mat. 3. 6. whereas perſons un<g ref="char:EOLhyphen"/>repentant are put by, Luke 7. 29. 30. And all the people that heard him juſtified God, being d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pped with the dipp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of <hi>Iohn;</hi> but the Phariſees and Lawyers reiected the counſell of God againſt themſelves being not dipt of him.</p>
+            <p>Perſons beleeving, Acts 8. 12. 13. 36. 38. Perſons penitent. Acts 2. 38. Perſons that received him, and are made Diſciples by teaching, Matth. 28. 19. Iohn 4. 41. 42. Perſons borne againe, not of corruptible ſeed nor by the will of man, but of God, Iohn 1. 12. 13. 1 Pet. 1. 23. begotten by the word of truth, Iames 1. 18.</p>
+            <p>Thus for true dipping there is a certaine time appointed, as was for Circumciſion, Acts 8. 37. yea commanded, Acts 10. 48. And he commanded them to be dipt in the Name of the Lord. And 22. 16. And now why tarrieſt thou ſo long? ariſe and be dipped, and waſh away thy ſins, calling on the Name of the Lord: therefore ſuch perſons onely are to be dipped, who are thus particular deſcribed, wherein the new Teſtament is as cleare as the Old; and Chriſt the Mediator of the new Te<g ref="char:EOLhyphen"/>ſtament, as faithfull as <hi>Moſes</hi> the Mediator of the Old. So it appeares what ſubjects are to be dipped, whereas if otherwiſe, then is not the New as cleare as the Old, nor Chriſt as faithfull as <hi>Moſes;</hi> which to ſay, is bla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phemy.</p>
+            <p n="3">3. Againe, if the Lord doth make his Covenant of the new Teſtament with thoſe onely which know him by faith, which
+<pb n="8" facs="tcp:156608:9"/> at the hearing of faith preached, doe apprehend and apply the promiſes contained in the Covenant, and not to any by vertue of fleſhly generation, though the naturall children of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi>
+            </p>
+            <p>Then not any by vertue of fleſhly generation, are under the Covenant, though the naturall children of <hi>Abraham.</hi>
+            </p>
+            <p>The firſt is proved, Heb 8. 10. 11. For this is the covenant <hi>I</hi> will make with the houſe of Iſrael: After tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e dayes ſaith the Lord <hi>I</hi> will put my Lawes into their minde, and write them in their hearts, and <hi>I</hi> will be to them a God, and they ſhall be to me a people, and they ſhall not teach every man his neigh<g ref="char:EOLhyphen"/>bour, And every man his brother ſaying, Know the Lord: for all ſhall know me from the leaſt to the greateſt, Iſai. 59. 21. Iohn 1. 11. 12. Eph. 1. 13. Rom. 3. 16. 21. 22. Gal. 3. 26.</p>
+            <p n="2">2. The ſecond is proved, Rom. 2. 28. Matth 3. 9. Joh. 8. 39. Rom. 9. 8. For he is not a Iew that is one outwardly, neither is that circumciſion, that is outward, &amp;c. Therefore none by vertue of fleſhly gener<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, though the naturall children of <hi>Abraham,</hi> are under the covenant.</p>
+            <p n="4">4. Again, if the covenant which the Lord made with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and his ſeed under the Goſpel, concerning life and ſalvati<g ref="char:EOLhyphen"/>on through Chriſt, is meant his ſpirituall ſeed, and not his natu<g ref="char:EOLhyphen"/>rall, then <hi>Abrahams</hi> ſpirituall ſeed under the Goſpel, are un<g ref="char:EOLhyphen"/>der the covenant of life and ſalvation and not his naturall.</p>
+            <p n="1">1. The firſt is true, Rom. 4. 11. 12. 13. 16. Gal. 3. 7. 9. 22. 23. 29. Know ye therefore that they which are of faith, the ſame are of the children of <hi>Abraham?</hi>
+            </p>
+            <p n="2">2. And the ſecond is proved, Matth 3. 9. Rom. 9. 7. 8. Gal. 3. 22. And think not to ſay within your ſelves, we have <hi>Abraham</hi> to our father; for I ſay unto you, that God is able of theſe ſtones to raiſe up children unto <hi>Abraham.</hi>
+            </p>
+            <p>Therefore the covenant which God made with <hi>Abraham</hi> and his ſeed under the Goſpel, concerning life and ſalvation, was with his ſpirituall ſeed, not his naturall.</p>
+            <p>From hence we reaſon thus: They onely are to bee dipped, and received into the Church of God, to whom the covenant doth appertaine.</p>
+            <p>But the covenant doth appertaine to the ſpirituall children of <hi>Abraham,</hi> not the naturall.</p>
+            <p>Therefore the ſpirituall children of <hi>Abraham</hi> are to bee dip<g ref="char:EOLhyphen"/>ped,
+<pb n="9" facs="tcp:156608:9"/> and his naturall are not, till they become ſpirituall.</p>
+            <p>From whence we reaſon thus againe:</p>
+            <p>If the naturall children of <hi>Abraham</hi> are not to bee received into the covenant of the new Teſtament, by vertue of the co<g ref="char:EOLhyphen"/>venant made unto <hi>Abraham</hi> the father of the faithfull, and no beleeving Gentile hath the like promiſe, title, or priviledge to his naturall children, as <hi>Abraham</hi> had to his, then no beleeving Gentile by vertue of the covenant made to <hi>Abraham,</hi> hath that priviledge of the admittance of his naturall children into the covenant of the new Teſtament by dipping.</p>
+            <p>But the firſt is true, Luke 3. 8. Rom. 9. 6. 8. And 4. 13. 16. Now ſeeing the promiſe is of the faith, that is, upon the condi<g ref="char:EOLhyphen"/>tion of faith, Iohn 1. 12. Acts 8. 37. Rom. 10. 9. 10. Luke 7. 29. 30. Which faith, is a living and working faith, not dead 2. <hi>Iames</hi> 17. 18. 21. 22. 23. Without which Condition, none are to be admitted into the Covenant of the Goſpel, though the naturall children of <hi>Abraham,</hi> Matth. 3. 7. 8, 9, 10. <hi>Asts</hi> 2. 37. 38. 41. And no beleeving Gentile, though never ſo holy, have not that honor, or dignitie, as <hi>Abraham</hi> had, to be the father of the Faithfull, yea of all that beleeve, Gen. 12. Gal. 3. 3. 8. Whe<g ref="char:EOLhyphen"/>ther Jewes or Gentiles; But hath this honor, or dignitie onely to be Chriſts, to be the Children of <hi>Abraham</hi> by faith Gal. 3. 7. 26. So that this Covenant ſtandeth between GOD and man, man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>feſted by holy Writ is; That as there is but one Lord; one Faith; and one Dipping: Epheſ. 4. 5. which is the Dipping of Repentance for the Remiſsion of ſinnes, Mark 1. 4. ſo there is but one way or entrance into the Covenant under the Goſpel, ſo as the Father, to wit an Infidell, after Convertion is admitted and received a Member into the Church of Chriſt upon the manifeſtation of his faith and repentance by Dipping; even ſo his naturall children, thoſe begotten after the Parents Con<g ref="char:EOLhyphen"/>vertion and admittance into the Church muſt come in the ſame way as the Parent did, or elſe he cannot ſee the Kingdome of God, Iohn 3. 3. Mark 1. 4. Except he die in Infancie, or a larger mercy be ſhowne of God, then is revealed to us in his VVord, Therefore we conclude thus with <hi>Deu.</hi> 29. 29. ſecret things be<g ref="char:EOLhyphen"/>long to the Lord our God, But revealed to us, and to our chil<g ref="char:EOLhyphen"/>dren for ever, And ſay with <hi>Paul,</hi> Rom. 11. 33. Oh the depth
+<pb n="10" facs="tcp:156608:10"/> of Riches, both of the wiſdome and Knowledge of God, how vnſearchable are his Judgments, and his wayes paſt finding out.</p>
+            <p>But for his reuealed will, Chriſt ſaith Iohn 15. 15. That he declared all things which he heard of his Father, but he neuer declared Dipping of Infants, but forbid it as is proved from the negative part of the Commiſſion, Therefore he never heard it of his Father. And the Apoſtle <hi>Paul,</hi> Acts 20. 27. ſaith, That he had declared the whole counſell of God; But hee never revealed the Dipping of Infants; Therefore the dipping of In<g ref="char:EOLhyphen"/>fants is none of the counſell of God, And therefore as the Jewes were brought by Ceremonies, to know <hi>Chriſt,</hi> ſo let Chriſtians learne to know firſt, as the Lord ſaith, Iſai. 53. 11. By his knowledge ſhall my Righteous ſervant juſtifie many, And Jere. 31. 34. all ſhall know me, from the leaſt to the greateſt, and Phillip. 3. 3. we are the circumciſion, which worſhip God in the ſpirit, and reioyce in Chriſt Jeſus, and have no confidence in the fleſh.</p>
+            <p>
+               <hi>Queſt.</hi> 5. But what is the true ordinance, of the dipping of <hi>Chriſt,</hi> and wherein doth it differ from childrens Dipping, which is the beſt way to ſhew the truth; and what benefit doth Beleevers receive by it.</p>
+            <p>
+               <hi>Anſw.</hi> That Dipping whereof we ſpeake, is Dipping, bury<g ref="char:EOLhyphen"/>ing, or plunging a Beleever in VVater, he deſiring of this Or<g ref="char:EOLhyphen"/>dinance of an Apoſtle, Prophet or Evangeliſt, To whom <hi>Chriſt</hi> by his Church, hath committed the Adminiſtration, In the Name of the Father, and of the Sonne, and of the holy Spirit, Matth. 28. 19. 20. in which definition, you may obſerve theſe two parts.</p>
+            <list>
+               <item>1. The matter, and that is a true ſubiect of a Beleever, con<g ref="char:EOLhyphen"/>feſſing ſinnes, and faith, deſiring the ordinance.</item>
+               <item>2. Water the Element, and ſo you have the matter, for the true forme, which is:</item>
+            </list>
+            <p>Firſt, Chriſts power, putting life into the Ordinance, in his owne Inſtitution, delivered in theſe words, to the Apoſtles, goe yee;</p>
+            <p>Thirdly, the right verball forme of words, in the Name of the Father, and of the Sonne, and of the holy Spirit.</p>
+            <pb n="11" facs="tcp:156608:10"/>
+            <p> Fourthly, conſider the ends, the Lord aimeth at, in giving this ordinance of dipping to the Apoſtles, and ſo to the Church.</p>
+            <p>Firſt, he will have them all conformable to himſelfe, Rom. 8. 29. Matt. 10. 13. Mark. 1. 9. Luke 3. 21. for before that hee went about the worke of God, hee went to <hi>Iohn,</hi> to be dipped of him, ſo before we take on us, to make publike profeſsion of Chriſt, or any part of the Goſpel, much more to preach, wee muſt be Dipped; and ſo put on the right profeſſion of the Go<g ref="char:EOLhyphen"/>ſpel, Gall. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as many of you, as have been dipped into <hi>Chriſt,</hi> hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Chriſt.</hi>
+            </p>
+            <p>Secondly, God doth by this holy ordinance<g ref="char:punc">▪</g> aſſure, and manifeſt, that he hath waſhed us from all our ſinnes, by the blood of Jeſus Chriſt, Acts 22. 16. And doth truly and viſa<g ref="char:EOLhyphen"/>bly receive us into the Covenant of grace, whereby wee are partaker of all the Promiſes, therein contained, that doe con<g ref="char:EOLhyphen"/>cerne the planting us in Chriſt, or forgiveneſſe of ſinnes, and <note place="margin">
+                  <hi>Gal.</hi> 3. 26. <hi>Hoſ.</hi> 14. 3. <hi>Gal.</hi> 4. 4. 5. 5. 6.</note> receptation of perſons, both that wee being fatherleſſe, by na<g ref="char:EOLhyphen"/>ture, God will be a Father to us; for yee are all the Children of God, by faith in Ieſus Chriſt.</p>
+            <p>Againe, we are loſt in <hi>Adam,</hi> therefore we are waſhed in the Name of the Son, for he hath redeemed us, that wee might re<g ref="char:EOLhyphen"/>ceive the Adoption of ſonnes, and becauſe yee are ſonnes, God hath ſent forth the Spirit of his Son into your hearts, crying Abba Father, who of God is made into us wiſedome, righte<g ref="char:EOLhyphen"/>ouſneſſe, ſanctification, and Redemption. 1 Cor. 1. 30.</p>
+            <p>Thirdly, we are unable, to will, or to doe any thing that is good, And therfore wee have the holy Spirit to begin all in and perfect all for us, and to worke all our works, in us, Iſai. 26. 12. Lord thou wilt ordaine peace for us, for thou alſo haſt wrought all our workes, in us; And Rom. 8. 26. Likewiſe the Spirit alſo helpeth our Infirmities, And Col. 1. 29. whereunto I labour, ſtriving according to his working, which worketh in me migh<g ref="char:EOLhyphen"/>tily, And Phil. 2. 13. It is God which worketh in you, both to will and to doe all his good pleaſure.</p>
+            <p>Fourthly, Hereby the Beleever, that was by nature afarre off, a Farrenner, and Stranger, is by the blood of Chriſt made nigh. Epheſ. 2. 12. 13. 14. And is by this Ordinance of Dipping, in union with the whole body of God upon earth. 1 Cor. 12. 13.
+<pb n="12" facs="tcp:156608:11"/> And may challenge a right in the priviledges of the Goſpel, in any place whereſoever, he commeth into the Communion of the Saints, Acts. 9. 26, 27, 28.</p>
+            <p>Fiftly, this is Chriſts Livery, by which Chriſtians are knowne from all other, and the Church from the world. Gal- 3. 27.</p>
+            <p>Sixly, if at any time any ſhould aske us, who req<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ireth us to walke in ſuch a holy fellowſhip, and communion, wee are inabled to it by Chriſt, and ſo aſſured of Countenance in it, by the Lords Supper, for hee that ſaith he is in Chriſt, and hath fellowſhip with him, ought himſelf ſo to walke, even as he hath walked. John 1. 2. 6.</p>
+            <p>Seventhly, That the perſon thus dipped, is firſt viſibly ſea<g ref="char:EOLhyphen"/>led, to the day of Redemption, Secondly, he hath truely a right to Communion, as being dipped into that one body, whereof Chriſt is head, 1 Cor. 12. 13. Thirdly, that hee is mortified, Rom. 6. 4. crucified, dead and buried, and riſen againe with Chriſt, Gal. 3. 2. 3, 4, 5.</p>
+            <p>Eightly, that the Beleever, may in that day role away all the reproach of Egypt, or Antichriſtianiſme, renouncing the marke of the beaſt in our right hands, by holding, or fighting for him, or in our forehead, Revel. 13. 16. by dipping of Infants, that falſe Conſtitution of Rome to beget grace, thus it is cleere; who is the true ſubjects of Dipping, And who are not.</p>
+            <p>Now the Lord Jeſus came not till the fulneſse of time, Gal. 4. 5. and when he was come, never undertooke any Admini<g ref="char:EOLhyphen"/>ſtration, though he were heire of all things, Heb. 1. 3. but in an orderly way, as hath been ſhewed, nor will hee contract mar<g ref="char:EOLhyphen"/>riage with any, though the husband of all his Church and mem<g ref="char:EOLhyphen"/>bers, Hoſea 2. 19. <hi>I</hi> will betroath them unto me in Righteouſ<g ref="char:EOLhyphen"/>neſse, And in Judgement, and in loving kindneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, And in mer<g ref="char:EOLhyphen"/>cy, yet not with any that are ſo young, and under age, Gal. 4. 1. 2. 3. that they are not ſencible of the want of Chriſt, or any benefit they receive by him, or what contract they make with him; In ſhort, all thoſe holy ends that God aimed at in true dipping, are wholly made voide, and of no effect in the dip<g ref="char:EOLhyphen"/>ping of Infants, which the Lord <hi>Chriſt</hi> commanded not, Jere.
+<pb n="13" facs="tcp:156608:11"/> 7. 31. Revel. 22. 18. Matth. 28. 19, 20. nor came into his heart; And curſed is he, that ſhall adde to the Word of the Lord, Deut, 4. 2. &amp; 12. 31. Prov. 30. 6. If any man ſhall adde to theſe things, God ſhall adde to him the Plagves that are written in this book, and therefore that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very one would be incovraged to bring out their Talent, and not to hide it in a napkin, to the o<g ref="char:EOLhyphen"/>verthrowing of all the inventions of the man of ſinne, Pſal. 137. 8, 9.</p>
+            <p>
+               <hi>Objection</hi> 1.</p>
+            <p>NOW follow certaine anſweres to divers objections; As Firſt Matth. 19. 13. 14. In which it is cleere, children were brought to <hi>Chriſt,</hi> therefore he d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt them, or it was their right, ſay they.</p>
+            <p>
+               <hi>Anſw.</hi> 1. It doth not follow, that becauſe <hi>Chriſt</hi> received, and bleſsed them, that therefore he dipped them, for hee dipped none at all, Iohn. 4. 2. but his Diſciples.</p>
+            <p>Secondly, this place is put in, to be read at the ſprinkling of children; for the whore hath ſweet words, as ſoft as oyle, and with theſe faire ſpeeches, ſhe maketh the nations yeeld to her. Pro. 7. 21. but the ſimple only beleeveth her, Pro, 9. 16. 17. For this place, as all may ſee; makes nothing at all for ſprinkling of children.</p>
+            <p>Thirdly, if they were infants of Eight daies old (as Circum<g ref="char:EOLhyphen"/>ciſion was Adminiſtred) And that their parrents were Jewes, they might not be dipt, before nor after the Eighth day, and then their Mother would lie in, and be very unfit to goe a<g ref="char:EOLhyphen"/>broad, much leſse to carry out their children, If they were not of the Jewes, but Gentiles, then had they no right, they know<g ref="char:EOLhyphen"/>ing not God, And their Children not borne of beleeving pa<g ref="char:EOLhyphen"/>rents. Acts 2. 30. Gen. 17. 9. 10. 11.</p>
+            <p>Fourthly, we muſt not thinke ſo meanely of the ſervants of Chriſt, or thinke his Diſciples ſo untaught, that if Chriſt had in<g ref="char:EOLhyphen"/>ſtituted the dipping of infants; and ſo had practiſed the ſame, that they would forbid, or keep any away f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om Chriſts Ordi<g ref="char:EOLhyphen"/>nance, But rather, of all others, obſerve all things, as <hi>Chriſt</hi> commanded them, to the end of the World, Matth. 28. 20.</p>
+            <p n="5">
+               <pb n="14" facs="tcp:156608:12"/> 5. In both theſe places, there is not one word ſpoken of Concerning Dipping in many Chapters before and after, and therefore they came not for Dipping vn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Chriſt he never did it to any, having greater works to doe; to writ, the more Noble worke of preaching; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> working miracles, as hee thought good for to confirme his doctrine for the generall good, in all places, where he came.</p>
+            <p>The ſpirit of the Lord is upon me, becauſe he hath Anoin<g ref="char:EOLhyphen"/>ted <note place="margin">
+                  <hi>Iſay</hi> 61. 2. 3. <hi>Luk.</hi> 4. 18. 19.</note> me to preach the Goſpel to the poore, he hath ſent me to heale the broken-hearted; To preach deliverance to the cap<g ref="char:EOLhyphen"/>tives, and recovering ſight to the blinde, to ſet at liberty them that are bruiſed, to preach the Acceptab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e yeere of the Lord, Acts. 10. 37. 38.</p>
+            <p n="6">6. If the dipping of infants, be Gods Ordinance, Chriſt was not ſo faithfull, over his Houſe a ſonne as <hi>Moſes</hi> a ſervant was; For <hi>Moſes</hi> made, and ſet out all things, according to the pat<g ref="char:EOLhyphen"/>terne, Heb. 8. 5. but if Chriſt received any patterne for dipping infants, hee hath left no rule for it, by precept, or ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>And for thoſe that doe it from Circumciſion, they ſet the Lord Jeſus, and the Apoſtles to ſchoole to <hi>Moſes,</hi> to learne of him in the Law, to teach the Goſpel, but we have not ſo lear<g ref="char:EOLhyphen"/>ned <hi>Chriſt,</hi> as to thinke his care, and faithfulneſſe leſse then <hi>Moſes;</hi> and therefore he had no ſuch command of God, as to inſtitute Dipping of infants, for if hee had, hee might have ſaid to thoſe that brought them; have they been dipt, and all the reſt of your children, at home, look to it; and for time to come, ſee that you paſse not the Eight day, for you know, Circumciſion was not to be omitted; Remember how angry God was with that good ſervant of his, <hi>Moſes,</hi> Exod. 4. 25. but heere is not a word for any ſuch end; And therefore, no ordinance of God; for the truth is, there is nothing in theſe places for dipping be<g ref="char:EOLhyphen"/>leevers; which is Gods Ordinance, much leſse for the dipping of infants, which he commanded not; neither came into his heart, Iere. 7. 31.</p>
+            <p>Anſwere.</p>
+            <p>But for Anſwere to this, Chriſt would ſhew his mercy to
+<pb n="15" facs="tcp:156608:12"/> all, both jew, and Gentile, Acts. 13. 48. for theres no difference, Col. 3. 11. But the fame of Chriſt, being ſpread abroad, as hee was famous in all places; Inſomuch, they thought them happie that could but ſee him, Luke 1. 9. 6. and thoſe that could but touch the hem of his garment, were healed of whatſoever di<g ref="char:EOLhyphen"/>ſeaſe they had, Matt. 4. 23. Luke 6. 17 18, 19 hence it came to paſse, they came thronging in upon Chriſt, And brought their Children, for it is naturall for Parents to deſire the good of their Children, as well as their owne, Matth. 15. 25, 26. where the Woman of Canaan came to Chriſt, in the behalfe of her daughter; crying, Lord helpe me.</p>
+            <p>Secondly, Chriſt by imbracing, and bleſsing them, doth ſhew himſelfe to be Saviour of Iew, and Gentile, young, and old; for there is no other Saviour, and ſo that hee receiveth none upon decent; but though he be poore, and have no money, yea, nor money worth, yet hee will give them milke, and wine, with<g ref="char:EOLhyphen"/>out money, and without price. Iſai. 55. 1. 2.</p>
+            <p>Thirdly, to teach his Diſciples, humility, and ſelfe-deniall, for he that is not a little childe, in lowlineſse, love, humility, and ſelfe-deniall, hee ſhall not inherite the kingdome of God, Matth. 18. 3. Mark. 10. 13. 14. 15.</p>
+            <p>
+               <hi>Obiection.</hi> But the promiſe is made to the faithfull, and their ſeed, for Acts, 2. 38, 39. <hi>Peter</hi> ſaith, the Promiſe is made to you and to your children, and to all that are afarre off, even ſo ma<g ref="char:EOLhyphen"/>ny as the Lord our God ſhall call.</p>
+            <p>
+               <hi>Anſw.</hi> In theſe words, is not ſo much as any ſhew of truth, for Dipping of infants, for the words are part of an Exhortati<g ref="char:EOLhyphen"/>on, of incouraging theſe Converts, pricked at the heart, verſ. 37. for they cryed out, what they ſhould doe to be ſaved, the A<g ref="char:EOLhyphen"/>poſtle anſwers.</p>
+            <p>Firſt, Repent and be dipped, every one of you, for the re<g ref="char:EOLhyphen"/>miſſion of ſinnes.</p>
+            <p>Then comes with this incouragement, for the promiſe is made to you, and to your children, And to all that are afarre off, even as many as the Lord our God ſhall call, that is not to you Jewes onely, but to the Gentiles alſo, to ſo many as the Lord our God ſhall call of them<g ref="char:punc">▪</g> and ſo it anſweres to a caſe of conſcience, that they might bring, being ſencible of their
+<pb n="16" facs="tcp:156608:13"/> owne unworthineſse, in crucifying<g ref="char:punc">▪</g> 
+               <hi>CHRIST.</hi>
+            </p>
+            <p>Secondly this anſweres; that the promiſe is made to them; And not onely to them preſent; But to their poſteritie, yea, and to all that are called, though never ſo farre off, the Lord calling them, as he hath done you, they may come in by faith, for a part in Chrſt, as well as <hi>Abraham</hi> your Father, or you his chil<g ref="char:EOLhyphen"/>dren, or the children after you, But what is this to the dipping of Infants: for children, in this place, and many other the like, is not meant, infants of ſeven, or eight daies old, that is p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaded to be dipped, But the linially deſcended ſonnes of <hi>Abraham,</hi> Acts. 13. 26. Rom. 9. 27. loines, men and women, of age, full growne, for the Converts did not ſcruple the dipping of their Infants, they knew not that they ſhould be dipt themſelves, untill <hi>Peter</hi> tells them of it; And exhorts them to it; thus you ſee plainly, this makes nothing for dipping of Infants.</p>
+            <p>
+               <hi>Objection</hi> 4.</p>
+            <p>But children are holy, and therefore may bee Dipt. 1 <hi>Cor.</hi> 7. 14.</p>
+            <p>Anſwere.</p>
+            <p>The ſcope of the former part of the Chapter, is to anſwere caſes of Conſcience, put, or ſent by ſome of the members of the Church to the Apoſtle, be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng abſent from them at <hi>Philippi.</hi>
+            </p>
+            <p n="1">1. VVhether it was lawfull for them to marry, verſe, 1. 3.</p>
+            <p n="2">2. About the lawfull uſe of libertie, in their marriage eſtate, verſ. 3. 4. 5.</p>
+            <p n="3">3. If they being married, the one being a Heathen, whether they might continue, to dwell together or no, And not as in <hi>Eſrahs</hi> time<g ref="char:punc">▪</g> put away their wives. <hi>Eſiah.</hi> 10. 3, 4, 5, 6. VVhere they were to put away their ſtrange wives, that were not of the ſeed of Iſrael, and herein is the caſe of the children being holy, where the Apoſtle anſwer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s;</p>
+            <p n="1">1. Negatively, they may not part, though one be an unbelee<g ref="char:EOLhyphen"/>ver, and that for theſe reaſons.</p>
+            <p>Firſt he, or ſhee that beleeveth not, is ſanctified, as a cleane veſſell, by the bleſſing of God, for the lawfull uſe one of ano<g ref="char:EOLhyphen"/>ther, in that honorable Eſtate of Marriage. Heb. 13. 4. elſe were
+<pb n="17" facs="tcp:156608:13"/> were your children uncleane, that is Baſtards, but now are they holy, that is, borne in lawfull marriage, Deut. 23. 2. That holy Ordinance of God, inſtituted by him in Paradiſe for our firſt parents, in the eſtate of innocency before the fall, and grac'd by our Lord Chriſt, himſelfe, to ſhew that he was by a woman in that eſtate, Matth. 22. 23. Acts 4. 27. as alſo by his holy preſence, and firſt miracles that he wrought, John 2. 1. to the 7. but before thou paſse, 1 Cor. 7. 14. conſider that if the words be truely tranſlated, the unbeleeving parent and the childe hath all one holineſſe, or ſanctification, and ſo rendred in the Latine, and would be ſo in the Engliſh, were it not to blinde the Reader.</p>
+            <p>Thirdly, Chriſt is pleaſed to ſet out the myſticall ſweet, and heavenly union and communion betwixt him and his Church by this holy Communion; for this cauſe ſhould a man leave his father and mother, and ſhall be joyned to his wife, and they two ſhall be one fleſh; this is a great miſery, but <hi>I</hi> ſpeake concerning Chriſt and his Church, Epheſ. 5. 31, 32.</p>
+            <p>Fourthly, true holineſse floweth from faith in Chriſt, and not by generation of holy parents, but by regeneration wrought by the Spirit of God, John, 1. 12. 13. and 3. 3. 5.</p>
+            <p>Fifthly, God doth not make promiſe to any faithfull man and woman, and their ſeed now under the Goſpell, Pſal. 89. 27. 28 but to the Lord Jeſus Chriſt and his feed, that everla<g ref="char:EOLhyphen"/>ſting father of the faithfull; Eſay 9 6, 7. and 59. 21. Gal. 3. 29.</p>
+            <p n="6">6. If you ſay the promiſe was made to <hi>Abraham</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his ſeed, <note place="margin">
+                  <hi>Gen.</hi> 17. 9, 10.</note> 
+               <hi>viz.</hi> to his naturall ſeed, then it was to give them the Land of Canaan; but if to the ſpirituall ſeed, as it was to Chriſt, Gal. 3. 16. then the Land of Canaan, was the type, and eternall by Chriſt, and faith in the new Covenant, is the truth, but you muſt prove this promiſe made to a woman; alſo if it helpe any thing by this concluſion, ſo that if but one be a beleever of the parents, and that be the woman, it muſt hold that the children be holy by the promiſe made to her, and by her faith.</p>
+            <p>
+               <hi>Oject.</hi> 5. Children are of the Kingdome of God, and there<g ref="char:EOLhyphen"/>fore have right to all the Ordinances of God, and ſo to Dip<g ref="char:EOLhyphen"/>ping, Marke 10. 14. Mat. 19. 14.</p>
+            <p>
+               <hi>Anſwer.</hi> Whereas it is objectected, children bee of the
+<pb n="18" facs="tcp:156608:14"/> Kingdome of God, and have right to all the Ordinances, and ſo to Dipping. This conſequence neceſsarily followes, that they have right alſo to the Lords Supper aſwell as Dipping, ſeeing, right to all.</p>
+            <p>The Argument is grounded, becauſe they are of the King<g ref="char:EOLhyphen"/>dome of God, and that Chriſt ſaith it; which being true, as they would beare us in hand, that Chriſt would have them to receive Dipping. We deſire that to be ſhewn, where, or when Chriſt dipt any, or commanded it to be done by any other; at elſe that they would appoint Godfathers and Godmothers, as they call them, to eate the Supper, as well as to profeſse repentance, and faith, and deſire Dipping for them, to the Law, and to the teſtimony; if they ſpeake not according to this word, it is becauſe there is no light in them, and Jerem. 23. 30. to the 40. The Lord will bring an everlaſting reproach upon the Prophets, which cry, the burthen of the Lord, when the Lord hath not ſent them, but Propheſie falſe dreames, and cauſe his people to erre by their lies, and by their lightneſse, yet he ſent them not.</p>
+            <p>
+               <hi>Object.</hi> 6. But the maine Objection, children were circumci<g ref="char:EOLhyphen"/>ſed under the Law, therefore under the Goſpell they ought to be Dipped.</p>
+            <p>
+               <hi>Anſwer.</hi> Is it a ſufficient reaſon, becauſe <hi>Abraham,</hi> at the, command of God, under the Law, circumciſed his males, Gen. 17. 11. and you ſhall circumciſe the fleſh of your foreskin and it ſhall be a token of the covenant betwixt me and you.</p>
+            <p>Therefore we muſt dip infants under the Goſpell, which Chriſt commanded not, as is before proved, neither came into his heart to imagine, Jerem. 7. 31.</p>
+            <p>Secondly, why might not <hi>Ieroboam</hi> better build an Altar at Betheel, 1 Kings 12. 28. 32. 33. ſeeing God commanded <hi>Iacob,</hi> Gen. 35. 1, to doe it; but <hi>Jacob</hi> built the Altar, according to the command of God, verſe 7. and was approved of God for it; and <hi>Ieroboam</hi> offered upon the Altar, which he had made in Betheel the fifteenth day of the eight moneth, even in the moneth which he had deviſed of his owne heart, and had this memoriall, that he made Iſrael to ſin.</p>
+            <p>Againe, it is alledged that <hi>Abrahams</hi> children were circum<g ref="char:EOLhyphen"/>ciſed,
+<pb n="19" facs="tcp:156608:14"/> becauſe they were under the covenant ſo that the word becauſe ſeemes to be the reaſon that the children were circum<g ref="char:EOLhyphen"/>ciſed, becauſe, they were under the covenant, or becauſe they were <hi>Abrahams</hi> ſeed which I deny, my reaſon is;</p>
+            <p>Firſt, if they were circumciſed, becauſe they were under the covenant; then onely <hi>Iſaac</hi> was to be circumciſed, becauſe he onely was under the covenant, as is cleare, Gen. 17. 19. my covenant will I eſtabliſh with him for an everlaſting covenant. Now <hi>Iſhmael</hi> and the ſons of <hi>Keturah,</hi> were the ſons of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> yet were they not under the covenant.</p>
+            <p>Secondly, whereas ſome ſeemes to give the reaſon, becauſe they were <hi>Abrahams</hi> ſeed, then the pupills, or ſervants which were borne in the houſe, or bought for money were not to be circumciſed. But the pupills and ſervants that were borne in the houſe, or bought with money, were circumciſed as well as <hi>Abrahams</hi> children, borne of his body. Therefore they were not circumciſed becauſe they were <hi>Abrahams</hi> ſeed.</p>
+            <p>Thirdly, if they were circumciſed, becauſe they were under the covenant, then all theſe children and ſervants were under the covenant, and ſo ſhould have had right to the inheritance of the Land of Canaan, as well as <hi>Iſaac,</hi> and ſo ſhould have kept Circumſion in their poſterities for ever; which thing was not done by any but <hi>Iſaacks</hi> poſterity.</p>
+            <p>But now to give a Reaſon why Circumciſion was admini<g ref="char:EOLhyphen"/>ſtred; was becauſe God commanded it, his command giving a being to all his Ordinances: from whence it is cleere; that as <hi>Abraham,</hi> the father of them that ſhould beleeve, at the com<g ref="char:EOLhyphen"/>mand of God, circumciſed himſelfe, and all his males in his houſe, becauſe it was Gods Commandement.</p>
+            <p>Even ſo the faithfull, the children of <hi>Abraham</hi> ought to dip thoſe, and thoſe onely that profeſs repentance, and faith at the command of Jeſus Chriſt; and that becauſe Chriſt hath com<g ref="char:EOLhyphen"/>manded it, Matth. 28. 19, 20. But the firſt is true, therefore the ſecond.</p>
+            <p>And to ſpeake the truth, infants are not dipped, becauſe the males of <hi>Abraham</hi> were circumciſed, Gen. 17. or becauſe chil<g ref="char:EOLhyphen"/>dren were brought to Chriſt, Mat. 19. nor becauſe the pro<g ref="char:EOLhyphen"/>miſe is made to Beleevers and their children, 2 Acts. Nor
+<pb n="20" facs="tcp:156608:15"/> becauſe Children are holy, 1 Corin. 7. 14. Nor becauſe they were all Dipped, unto <hi>Moſes</hi> in the Cloud, and in the Sea, 1 Cor. 10. 2. Or becauſe God, or his Sonne <hi>Chriſt,</hi> who is faithfull, as a Sonne, ever commanded it; or that the Scrip<g ref="char:EOLhyphen"/>tures approved it, or will admit of any ſuch thing, or becauſe they are of the Kingdome of God, Mark. 10. 14.</p>
+            <p>But becauſe it hath been invented by men, and confirmed by the Pope, thereby to bring in all Nations under him; And the better to colour the matter, knowing that Repentance and faith, with deſire of the Ordinance, is required, hath appoin<g ref="char:EOLhyphen"/>ted God-fathers and God-mothers, as they call them, upon the profeſſion of whoſe Faith and Repentance, with deſire of Dipping, the Infant is ſprinkled; Thus have they made the word of God, of none effect, by their traditions, Matth. 15. 6. 9. but in vaine, ſaith God, doe they worſhip mee, teaching for Doctrines, the Commandements of men.</p>
+            <p>And if <hi>Naboth</hi> would not ſell, nor change his Vineyard with <hi>Ahab,</hi> becauſe it was the inheritance of his Fathers, 1 King. 21. 2. 3. how much more ought every beleever ſtand for, and not part with the Inſtitutions of Jeſus Chriſt, the in<g ref="char:EOLhyphen"/>heritance of our Everlaſting Father, the Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of Peace, Iſai. 9. 6.</p>
+            <p>Now followes to ſhew the Paralell betweene Circumciſion and Dipping, and wherein the priviledges of the faithfull are as large as the Jewes, inſomuch as theirs were Circumciſed, and theſe are not Dipped, alſo wherein they agree, and dif<g ref="char:EOLhyphen"/>fer.</p>
+            <p n="1">1. It doth not follow, that becauſe <hi>Abrahams</hi> ſeed by the Command of God, were to be circumciſed, Geneſ. 17. 10. that therefore the faithfulls naturall ſeed ſhould be dipped at the Comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of Antichriſt, for circumciſion of the Males, was one of Gods Sacred inſtitutions, given to <hi>Abraham,</hi> by Gods ſpeciall commandment, for that Church for ever, ſo long as they dwell in the Land of <hi>Canaan,</hi> And ſo to continue a Na<g ref="char:EOLhyphen"/>tionall Church, and ſo is of the Lords owne tight hands plan<g ref="char:EOLhyphen"/>ting. Acts. 7, 8. Gen. 17. 1.</p>
+            <pb n="21" facs="tcp:156608:15"/>
+            <p> But dipping of Infants was never heard of, in all the inſtitu<g ref="char:EOLhyphen"/>tions of Chriſt, or preachings of the Apoſtles, nor in the prin<g ref="char:EOLhyphen"/>ciples of the planting of thoſe Thirteene Churches, in any of thoſe 14. Epiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and ſo you ſee the firſt part of your Objecti<g ref="char:EOLhyphen"/>on groundleſſe.</p>
+            <p>Secondly, The p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iviledges of the Goſpel, are more large to Beleevers, under the Goſpel, then to them under the Law.</p>
+            <p>Firſt, that in Chriſt, all the Promiſes are abſolute, yea, and in him Amen, 2 Cor. 1. 20.</p>
+            <p>Secondly, that <hi>Abraham</hi> did not circumc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe the Females; But under the Goſpel, both are to be dipt, for there is no diffe<g ref="char:EOLhyphen"/>rence. Col. 3. 11.</p>
+            <p>Thirdly, they had the Goſpel but in darke ſhadowes; Heb. 10. 1. but we have the ſubſtance, or the body of Chriſt, Coll. 2. 17.</p>
+            <p n="4">4<g ref="char:punc">▪</g> Circumciſion was a hard and painefull Ordinance, and did both hinder worke and travell, and by the foreneſs of it indanger death, Gen. 34. 25. Joſh. 5. 8, 9. and therefore is called a yoke that neither wee nor our Fathers could beare, Acts 15. 10. but under the Goſpell wee have a faire, eaſie and comfortable Ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nance in compariſon of that; and there<g ref="char:EOLhyphen"/>fore happy are wee that may waſh and be cleane, 1 Kings 5. 13.</p>
+            <p n="5">5. Their Circumciſion did injoyne them to ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p the whole Law in the perfection, or elſe they muſt be d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mned, Gal. 5. 3. but in Dipp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng wee are but to be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeve the Goſpell, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Chriſt is the end of the Law, for righteouſneſs to every one that beleeveth, Rom. 10. 14. And if this be not a greater privi<g ref="char:EOLhyphen"/>ledge, or benefit, then any of the Iewes, had by their Circum<g ref="char:EOLhyphen"/>ciſion, let all beleevers judge, Cor. 1. 14. 32, and the ſpirit of the Prophets are ſubject to the Prophe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>Sixtly, our priviledges, is more, and larger, for that it is now given to all Nations, that was then confined, to the Jewes. Matt. 28. 19. 20. Acts 10. 24. And m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of their Prophets, Kings and Righteous men; deſired to ſee thoſe things that wee ſee, but have not ſeene them, Matthew 13. 17. For <hi>John</hi> was the g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eateſt that was bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, bee
+<pb n="22" facs="tcp:156608:16"/> fore him; yet he that is leaſt in the Kingdome of Chriſt, is grea<g ref="char:EOLhyphen"/>ter then hee, and ſo our priviledges, more, Matth. 11. 9. 10. 11. 12.</p>
+            <p>
+               <hi>Objection.</hi> 1.</p>
+            <p>But dipping is come in the roome of Circumciſion, which did tipe out dipping to us.</p>
+            <p>Anſwere.</p>
+            <p>That cannot bee, for then one tipe ſhould tipe out another; But Circumciſion did tipe out the truth, which is the Circum<g ref="char:EOLhyphen"/>ciſion of the heart, and the dipping of the Spirit, Rom. 2. 26. 27. 28. 29. both made without hands, Coll. 2. 11. 12. but ſo never was Circumciſion nor Dipping.</p>
+            <p>
+               <hi>Objection.</hi> 2.</p>
+            <p>But can you ſhew wherein Dipping and Circumciſion doth agree and differ; for that dipping of Infants, is gathered out of Circumciſion, for becauſe Infants were to be circumciſed the eighth day, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore many doe thinke by the ſame proporti<g ref="char:EOLhyphen"/>on from the Law to the Geſpel, children are to be dipped the eighth day, or before.</p>
+            <p>Anſwere.</p>
+            <p>It doth not follow, that becauſe Jewes were to obey God, in his Commandment, Gen. 17. 10. that therefore we are to obey the man of ſinne, Acts. 4. 18. 19. in his traditions, Marke. 7. 13. And therefore till you prove dipping of infants an inſtitution of the New Covenant, as is proved, Circumciſion was of the old; you doe but begge that by tradition, that you ſhould prove by the Word of God, but can never.</p>
+            <p>Now followes, wherein Circumciſion, and Dipping agree, and differ.</p>
+            <p>They agree in theſe particulars.</p>
+            <p>Firſt Circumciſion of infants, was Gods ſacred Ordinance, under the old Covenant, Gen. 17. 10.</p>
+            <p>So dipping of Beleevers, Heb. 8. 8. 9. 10. is Gods Ordinance, under the New Covenant, Matt. 28. 19. 20. Jere. 31. 33.</p>
+            <p n="2">2 They were both given to the Church for Gods glory, and our good, but to ſhew his right, to command; James, 4. 12. and our duety as well as theirs to obey, Acts 5. 31. 32. Hebr. 5. 9.</p>
+            <p n="3">
+               <pb n="23" facs="tcp:156608:16"/> 3. Cicumciſion was to put a viſible d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e betwixt the Church and the World, or all Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, Exod. 12. 48. ſo like<g ref="char:EOLhyphen"/>wiſe dipping is to put a difference betwixt the Church and the World, Marke 16. 16. Acts 2. 39, 40, 41. John 15. 18. 19.</p>
+            <p n="4">4. That as many of any Nation as would b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e circumciſed, was made a proſelite, and ſo might eat the Paſseover, Exod. 13. 48. So every one of any Nation being taught by the Word, beleeveth, and is dipped, is made a Diſciple, Acts 16. 32. John 4. 1, 2. and may lawfully eat of the Lords Supper, Acts 20. 7. for the Jewes did never part the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e two Ordinances, Exod. 12. 48. And therefore if you will dip your children, you may as well give them the Lords Supper; but if they bee uncapable of that, becauſe they cannot examine themſelves, 1 Cor. 11. 28. nor deſcerne the Lords Body, 1 Cor. 11. 23. no more are they capable of dipping, becauſe they cannot con<g ref="char:EOLhyphen"/>feſs faith and ſinnes, Mat. 3. 4. 6. nor deſire dipping, Acts 8. 36. 37, 38. Acts 2. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9, 40.</p>
+            <p n="5">5. As all that were circumciſed had viſible right to the Land of Canaan, and all the benefits thereof, Joſh. 5. 9. ſo hee that is dipped,0 being a fit ſubject, hath a viſible right to all the pri<g ref="char:EOLhyphen"/>viledges of the Goſpell, Acts 2. 41, 42, 46, 47.</p>
+            <p n="6">6. As he that was circumciſed, might periſh, if he had not the circumciſion of the heart and ſpirit, Rom. 2. 28, 29. ſo he that is truely dipped with water, if he have not the dipp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the ſpirit, Matth. 3. 11. may periſh, as <hi>Simon Magus,</hi> and ma<g ref="char:EOLhyphen"/>ny others, Acts 5. 21, 22. 1 Cor. 7. 19. Gal. 5. 6. and 6. 15.</p>
+            <p n="7">7. As circumciſion did not ſeale any thing to any of the Jewes, but to <hi>Abraham,</hi> Rom. 4 11. and that faith which hee had, being uncircumciſed. So dipping is not a ſeale to any, but a ſigne to all what God hath wrought in us, and for us; but the true and onely ſeale is the Spirit, Epheſ. 1. 13. Cor. 2. 1. 21. both to us, and from us, to God and men, John 3. 33 James 2. 18.</p>
+            <p n="8">8. As thoſe that were Circumciſed, nothing could hinder them from the Land of Canaan, but Rebellion and unbele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe, nor caſt them out of the good Land, when they were in it, Deut 28. 15. Numb. 14. 24. Heb. 2. 3. So nothing can hinder any from Dipping or caſt them out of the Viſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Chur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of
+<pb n="24" facs="tcp:156608:17"/> 
+               <hi>Chriſt,</hi> but diſobedience, and unbeliefe, Hebr. 4. 2. &amp; 12. 25. 26.</p>
+            <p n="9">9. As thoſe that were circumciſed in the fleſh, God of his free mercy g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving them that which was thereby ſignified, they did injoy Canaan, and all thoſe outward priviledges; but as the firſt f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uits, they had reſpect to far better things to be injoyed hereafter, Hebr. 11. 25. and <hi>Abraham</hi> ſought a City whoſe maker and builder was God: So they that are d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pped have thoſe things, whereof their outward waſhing is but a ſigne, and by continuing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n well doing, Rom. 2. 7, 8. and beleev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng they ſeeke more then we can here fully injoy, Phil. 1. 23.</p>
+            <p n="10">10. Finally, if any that were of the ſeed of <hi>Abraham,</hi> or a Proſelite, did neglect circumciſion, hee did grievouſly ſinne againſt God, and as much as in him lies to provoke God to diſpleaſure, Exod. 4. 24, 25, 26. ſo any that be now of the faith of <hi>Abraham,</hi> but new borne babes in Chriſt, it is their great ſin to omit dipping if they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now it, and my have it, Acts 22. 16. for without it they cannot rightly put on the profeſſion of Jeſus Chriſt, Gal. 3. 27. nor meddle with any other the holy things of God in the Church fel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owſhip, Acts 2. 39.</p>
+            <p>Now followes wherein they differ, which I conceive the beſt way the more plainely to ſhew the nature of them both.</p>
+            <p>Firſt, circumciſion was an Ordinance of God, inſtituted for the old Covenant of Workes before and under the Law, G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. 17. 9. 10. Exod. 12. 48. But Dipping is onely for the Goſpell, and both be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong to the new Covenant of grace, Mat. 28. 19. Hebr. 8. 11.</p>
+            <p n="2">2. They that were Circumciſed, were bound to keepe the whole Law, Gal. 5. 3. and ſo a heavy bondage, Acts 15 10. but they that are dipped are onely to beleeve, and ſee all done in <hi>Chriſt,</hi> they by faith apprehending it, Luke 8. 50. Rom. 3. 28. Gal. 3. 26. 1 Col. 17. 18. 19.</p>
+            <p n="3">3. Circumciſion was an Ordinance belonging onely to that one Nation of the Jewes, and that within the compaſſe of the Holy Land onely, but no further; and therefore neither in
+<pb n="25" facs="tcp:156608:17"/> Egypt, nor in the Wilderneſſe did they Circumciſe, Joſh. 5. 8, 9, 10.</p>
+            <p>But Dipping doth belong to all Nations, whoſoever are beleevers, Matth, 28. 19. 20. Mark. 16. 15, 16. Acts 8, 36, 37, 38.</p>
+            <p n="4">4. In Circumciſion, the Male only might enjoy it, Gen. 17. 9, 10. But Dipping both Male and Female, for they are all one in Chriſt Jeſus, Gal. 3. 28. Colloſ. 3. 11. Acts 16. 15, 16.</p>
+            <p n="5">5. Circumciſion did belong to all of <hi>Abrahams</hi> carnall ſeed, under the Law, Gen. 17. 13, 14. But Dipping to his Spirituall ſeede, onely under the Goſpel, Gallat. 3. 16. 29.</p>
+            <p n="6">6. As a Male-child of <hi>Abrahams</hi> ſeed of eight dayes old, might be Circumciſed, Gen. 17. 11, 12. 13. But now either Male or Female, Coll. 3. 11. of the everlaſting Fathers ſeed, Iſai. 9. 7. a new borne babe in <hi>Christ</hi> muſt be dipped, Act. 8. 37. Acts 16. 15. If they can come to any place, or perſon, to whom God hath committed this Ordinance.</p>
+            <p n="7">7. Vnder the old Covenant, they were firſt to be circum<g ref="char:EOLhyphen"/>ciſed, And then to Beleeve, But under the Goſpel, wee are firſt to beleeve, and then to be dipped, Acts. 2. 38. Heb. 6. 2. they being under the New Covenant.</p>
+            <p n="8">8. Circumciſion did Inrite thoſe perſons, that received it, into the viſible land of Canaan, Geneſ. 17. 8, 9, 10. But Dipping doth not give us any outward Inheritance in any Land or Countrey, But doth manifeſt to all men, that the Lord hath not onely given to thoſe that obey, Hebr. 5. 9. That right in the Kingdome of grace, but alſo the Kingdome of glory.</p>
+            <p n="9">9. Thoſe that were circumciſed under the old Covenant, did worſhip for grace, and ſo all that they did, was to make an Attonement: But we under the New Teſtament, worſhip from a principle of grace, which doe ſhew forth the glory of God; And this is the true difference betwixt literall and ſpirituall worſhip, Pſal. 92. 14. Cor. 2. 3. 14. to the 18. And ſo between circumciſion and dipping.</p>
+            <p n="10">
+               <pb n="26" facs="tcp:156608:18"/> 10. Circumciſion did always go before preaching the word; bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dipping doth follow, Matth. 28. 19. 20. Acts. 8. 34. to the 37. Acts 2. 37, 38.</p>
+            <p n="11">11. Circumciſion was a ſeale to <hi>Abraham,</hi> of his faith he had, Rom. 4 11. but to none of his poſteritie, But Dipping is not a ſeale to any of the faithfull, now but the Spirit of God, is the ſeale of life. Epheſ. 1. 13. 2. cor. 1. 21. 1 Joh. 3. 24.</p>
+            <p n="12">12. Circumciſion doth differ from Dipping, both in the matter, forme, end, and time, of continuance.</p>
+            <p n="1">1. For the matter, an infant, a Male of <hi>Abrahams</hi> ſeed by nature, a proſſelite, or bought with money, but the ſubject matter of Dipping, is a Beleever of ripe yeeres, but an in<g ref="char:EOLhyphen"/>fant in grace.</p>
+            <p n="2">2. For the forme, a round cutting of the foreskine of the inſtrument of generation, very ſore, and grievous, <hi>Joſh.</hi> 5. 6. 7. But the forme of Dipping, is water or plunging<g ref="char:punc">▪</g> under water, Matth. 3. 13. 14 15, 16. John. 16. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 33. Mark. 19. 10. John, 3. 23. which is much eaſier.</p>
+            <p n="3">3. In reſpect of the end of it, Circumciſſion did but ma<g ref="char:EOLhyphen"/>nifeſt an outward right to temporall inheritance in the land of Canaan; but Dipping doth witneſſe to Be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eevers, that they have a viſible right into the Kingdome of heaven, Luke. 12. 32, not onely in grace here, but in glory hereafter.</p>
+            <p>Againe, in reſpect of the time, for circumciſion was to continue ſo long as the Jewes, continued to bee a Nationall Church, and then to end at <hi>Chriſts</hi> death, but Dipping is to continue ſo long as <hi>Chriſt</hi> hath any Church upon earth, Mat. 28. 20. till the Kingdome be delivered up; and God ſhall be all in all. 1 cor. 15. 28.</p>
+            <p>Laſtly, circumciſion was a Tipe of inward dipping, the truth of Regeneration or the circumciſion of the heart, and Spirit. Rom. 2. 26. to the 29. coll. 2. 11. 12. And not a Type of outward Dipping. Prov. 30. 6. Adde thou not to his words, leaſt he reprove thee, and thou be found a lyar. And Revellat. 22. 22. for I teſtifie unto every man that heareth the words of the Propheſie of this book If any man
+<pb n="27" facs="tcp:156608:18"/> ſhall adde unto theſe things, God ſhall adde unto him the Plagues that are written in this book, and Heb. 12. 9. Fur<g ref="char:EOLhyphen"/>ther more, we have had fathers of our fleſh, which corrected us, and we gave them reverence; ſhall we not much rather be in ſubjection unto the Father of Spirits, and live?</p>
+            <p>BEloved, ſince part of this Treatiſe was in Preſſe, there came to my hand a book, ſet forth by <hi>P. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> which could I have gotten ſooner, I ſhould have anſwered more fully. But to touch ſome particulars; and firſt of Chriſts not being a Widdower, nor his Church without a head, though I find not this expreſſion, we differ not in the matter or ſubſtance, though it bee not alwaies viſib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e on the earth, as is cleare, Rev. 6. 12. 13. 14. whereupon the opening the eight Seale, heaven departed as a ſcroule when it is rolled together, and the 11. 7. 12. the witneſſes lying dead three daies and a halfe; therefore the Church is not alwaies viſible nor the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſtry, but for a time is hid in the Wilderneſſe, where ſhe is nouri<g ref="char:EOLhyphen"/>ſhed for a time, and times and halfe a time, from the face of the Serpent, Chap. 13. 3. 17. And therefore Chriſt is no Widdower, nor his Church without a head, ſo long as his Spouſe hath a being in heaven or earth.</p>
+            <p n="2">2. We grant the Ordinance, being loſt, none but a <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſt,</hi> a <hi>Moſes, Elias</hi> or a Prophet from heaven, can raiſe it; but beleevers having Chriſt, the Word &amp; Spirit have this, Mat. 18, 19, 20 &amp; 11. 11. Luke 7. 28. Rom. 10. 6, 7, 8. for the Scripture is as ſilent of <hi>Johns</hi> baptiſing himſelfe, and ſo o<g ref="char:EOLhyphen"/>thers, as for one. After the defection of Antichriſt to baptiſe himſelfe, being worſe then the Apoſtaſie of Iſrael: And this is plaine, for the Spirit doth not call them falne Iſraelites, but Sodomites, and Egyptians, that were the worſt of all Pagans; and ſo of all the Gentiles<g ref="char:punc">▪</g> Rev. 11. 2. 8.</p>
+            <p n="3">3. Iſraels Apoſtaſie d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not race the foundation of the conſtitution of the Church of the Jewes, for that was of an infant of <hi>Abrahams</hi> ſeed, or a Proſſelite to be circumciſed, Exod. 12. 48. and ſo long as they did this, their conſtitution was true in the Land of Canaan, Gen the 17. 10, 11, 12.</p>
+            <p>But it is plaine, that Antichriſt, as hee hath chan<g ref="char:EOLhyphen"/>ged all other Ordinances, both in the Church Miniſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y,
+<pb n="28" facs="tcp:156608:19"/> Worſhip and Government, Eſai. 24. 5. So hath he deſtroy<g ref="char:EOLhyphen"/>ed that true Apoſtolicall inſtitution: the matter whereof be<g ref="char:EOLhyphen"/>ing beleevers confeſſing ſins and faith, deſiring the Ordi<g ref="char:EOLhyphen"/>nance, Matth. 3. 6. Acts 8. 36, 37. to falſe matter of carnall infants, not new-borne Babes of that everlaſting Father, Be<g ref="char:EOLhyphen"/>gotten by that immortall ſeed, Iſai. 6. 9. 1 Pet. 2. 23. Firſt be<g ref="char:EOLhyphen"/>ing Chriſt, Gal. 3. 29. and not a fleſhly Generation, for that which is borne of the fleſh, is fleſh, that have not viſible Faith neither can they ſeale unto the Lord. John. 3. 33. as all true beleevers doe, for all true matter for the true church under the Goſpel, muſt know the Lord, Jere. 31. 34. And be all taught of God, Iſai. 54. 13. And therefore did the church of Rome or England, Baptize beleevers, onely confeſsing faith and ſins, deſiring it, wee would never ſeparate from them, much leſſe remove their Baptizme, as falſe, becauſe it is Gods ordinance in it ſelfe, but ſo was never the ſprink<g ref="char:EOLhyphen"/>ling of infants.</p>
+            <p n="2">2. Whereas you ſay we are filled with prejudice, that we have not patience to heare, wee ſhall bee ready, as we have ever beene, to ſpeake, or write: and concerning the veſsels of the Lords Houſe, if you performe your promiſe, I hope you will change your minde; for the Veſsels of the Lords Houſe had no relation to the ſprinkling of Infants, as hath beene formerly anſwered, for they were his owne Ordi<g ref="char:EOLhyphen"/>nance, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd need not be new caſt, ſo long as they remained the ſame, but the ſprinkling of Infants was never. And ſo the Argument to no purpoſe.</p>
+            <p>But put the caſe the Babilonians had deſtroyed the Lords Veſsels, and in ſtead had made them of Braſse, Copper, Tin, or Lead, whereas they were to be of pure Gold and Silver; had they beene then the Lords Veſsels, or would his people have uſed them in his ſervice and worſhip, or brought them backe, Ezra 1. 11. or would the Lord have accepted them for his owne Veſsels. And thus it ſtands in truth for the Dipping of Chriſt, deſtroyed and raced out both for matter and forme, as hath beene formerly ſhewed, the matter be<g ref="char:EOLhyphen"/>ing a beleever deſiring it, the true forme, dipping them into
+<pb n="29" facs="tcp:156608:19"/> Jeſus Chriſt, in the New Covenant, to be viſible heires, Rom. 8. 17. Gallat. 4. 5. Matth. 28. 20. whereas the other is but a tradition of the Church. As Maſter <hi>Rogers</hi> in his Treatiſe of Baptiſme, ſheweth that his conſcience was ne<g ref="char:EOLhyphen"/>ver convinſed by any Word of God. Alſo confeſt by the Jeſuits in the 17 controverſies. Therefore though in words you denie traditions, yet for the ſprinkling Infants you have no better Arguments.</p>
+            <p n="3">3. Whereas you ſay the whole Church of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oloſse; and ſo children being a part thereof, were baptiſed. To which I anſwer, could you prove them Saints and faithfull bre<g ref="char:EOLhyphen"/>thren in Chriſt, with experience of their love, 1 Chap. 2. 14. 21, 22. and 2. 11. and 3. 8. wherefore he exhorts the Church to beware leaſt any man ſpoile them through Phy<g ref="char:EOLhyphen"/>loſophy, and vaine deceit, after the traditions of men, after the rudiments of the world, and not after Chriſt, they be<g ref="char:EOLhyphen"/>ing compleat in him, in whom dwelleth the fulneſse of the God-head<g ref="char:punc">▪</g> bodily, being circumciſed with the Circumci<g ref="char:EOLhyphen"/>ſion made without hands, and ſo buried with Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt in bap<g ref="char:EOLhyphen"/>tiſme, wherein alſo they were riſen with him through the faith of the operation of God, which was by regeneration, and not generation, as Chriſt ſaith, John 3. 3. 5. 1 Pet. 2. 3. 1. 3. 21. Rom. 10. 10. and formerly proved, having ta<g ref="char:EOLhyphen"/>ſted that the Lord is gracious, to whom comming as unto a living ſtone, elect and pretious; they as living ſtones, are built up, a Spirituall Houſe, an holy Prieſthood to offer up Spirituall Sacrifices acceptable to God by Jeſus Chriſt.</p>
+            <p>And whereas he ſaith, ſome hold that Chriſt is to come and Raigne at Jeruſalem; wherefore hee would have had them to ſtay till then for the Ordinance. To which I anſwer, if the want of the viſibility of the Church proveth Chriſt a Widdower; then the ſtate of the Church of which <hi>P. B.</hi> is a Member, was unheard of within theſe two hundred yeares, and ſo Chriſt a Widdower, unleſse hee hold the Church of Rome a true Church; which if he doe, how dare they ſeparate from her? If not, ſome of them, being loving friends, holding the ſame Principle; how dare they raiſe
+<pb n="30" facs="tcp:156608:20"/> up a State before Chriſt comes, as they ſay, to reſtore all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs.</p>
+            <p>Laſtly, whereas the clothes, or veſtments are ſaid to bee holy, which they weare when they receive the Ordinance of Dipping, they being dipt into the death of Chriſt: for anſwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hee might as well have ſaid, the clothes are holy, preached unto, exhorted to repentance, faith, and other duties that men weare when they are in their Aſsemblies; but as is the man, ſo is his ſtrength, and for ſetting our parts <note place="margin">
+                  <hi>Judg.</hi> 8. 21.</note> by Gods parts, Ezek. 43. 8. Whether the Dipping beleevers, which Chriſt comand, or ſpringling Infants, which he com<g ref="char:EOLhyphen"/>manded not, be it, let every wiſe man judge; and the Spi<g ref="char:EOLhyphen"/>rit; of the Prophets are ſubject to the Prophets, 1 Cor. 14. 32. And for the whole houſhold, that he ſpeakes of, did hee but conſider the Apoſtles firſt preaching to them the Word of Faith, and their believing, Acts 16. 31. 32. 34. This Objection is ſoone taken away, but this hath beene ſuffici<g ref="char:EOLhyphen"/>ently ſpoken to before: therefore I ſhall leave it to Gods bleſſing, and thy cenſure.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156608:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
